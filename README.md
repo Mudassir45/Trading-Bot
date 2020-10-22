@@ -18,6 +18,8 @@ Install dependencies:
 ```
 npm install
 ```
+Create file of .env in the your folder and paste your Infura API Key of Mainnet, Account Address & Private Key. Example given in env.example file
+
 Run App:
 ```
 npm start
