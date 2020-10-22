@@ -1,6 +1,6 @@
 # Trading Bot
 Profitable Cryptocurrency Trading Bot for instant swapping of Tokens on Decentralized Exchanges.
-This Bot is developed on `Nodejs` with Web3.
+This Bot is developed on `Node.js` with `Web3.js`
 
 ## Features:
 - Fetches the Price of Tokens for Arbitrage.
@@ -10,15 +10,15 @@ This Bot is developed on `Nodejs` with Web3.
 - We can also add other Exchanges.
 
 ## Usage of Bot
-- First Clone the Repo:
+First Clone the Repo:
 ```
 git clone https://github.com/Mudassir45/Trading-Bot.git
 ```
-- Install dependencies:
+Install dependencies:
 ```
 npm install
 ```
-- Run Bot:
+Run App:
 ```
 npm start
 ```
